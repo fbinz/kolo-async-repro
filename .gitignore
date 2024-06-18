@@ -1,0 +1,4 @@
+.venv
+.kolo
+__pycache__
+*.sqlite3
